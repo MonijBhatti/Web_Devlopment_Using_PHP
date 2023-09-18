@@ -1,14 +1,11 @@
-<?php
-//Author :- Monij Bhatti
+<!-- Script_5: Declare a constant named PI with a value of 3.14159. Use the echo statement to display 
+the constant's value -->
 
-/*5. Create a PHP program that assigns a number to the variable $num and a string to the variable $text. 
-Use concatenation to display a message like "The number is: 42, and the text is: Hello!".*/
+<?php
 
 $num="42";
 $text="Hello!";
 
 echo"The number is : $num, and the text is : $text";
 
-//Output: -
-// The number is : 42, and the text is : Hello!
 ?>

@@ -1,16 +1,11 @@
-<?php 
-//Author :- Monij Bhatti
+<!-- Script_6: Create a variable $num with an integer value. Use the echo statement to display whether 
+the number is even or odd. -->
 
-/*
-6. Develop a PHP program that assigns an initial value to the variable $x, then reassigns it to a new value, and finally echoes the value.
-*/
+<?php 
 
 $x=25;
 $y=$x;
 
 echo"Initial Value To The Variable : $y";
-
-//Output: -
-// Initial Value To The Variable : 25
 
 ?>

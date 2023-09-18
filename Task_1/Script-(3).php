@@ -1,13 +1,9 @@
-<?php
-//Author :- Monij Bhatti
+<!-- Script_3: Calculate and display the sum of two variables $num1 and $num2 using the echo 
+statement. -->
 
-/*
-3. Develop a PHP program that assigns the value "42" to a variable named $answer and then echoes the value along with the text " is the answer to everything."
-*/
+<?php
 
 $answer=42;
 echo"$answer is the answer to everything.";
 
-//Output: - 
-//42 is the answer to everything.
 ?>
